@@ -1,0 +1,28 @@
+h1{
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 100px;
+    padding-top: 20px;
+    background-color: yellowgreen;
+    border-radius: 30px;
+}
+
+p{
+    font-size: 20px;
+    color: aliceblue;
+    
+    background-image: url(images/Screenshot\ 2024-02-29\ 232036.png);
+    background-size: 100%;
+}
+
+.button {
+    position: absolute;
+    top:50%;
+    background-color:#0a0a23;
+    width: 100px;
+}
+
+.gallery:hover{
+    background-color: blue;
+    color: aliceblue;
+}

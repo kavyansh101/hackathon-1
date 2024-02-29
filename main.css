@@ -1,0 +1,67 @@
+header{
+    background-image:url(images/Screenshot\ 2024-02-29\ 193310.png);\
+    width: 200px;
+    height: 200px;
+    border-radius:10px;
+}
+
+
+
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+}
+
+.options{
+    text-align: right;
+    word-spacing: 50px;
+    font-size: 20px;
+    color: black;
+    padding: 20px;
+}
+
+.options:hover{
+    color: black;
+    
+}
+
+.about  , .about2{
+
+}
+
+h2 , h3{
+    background-color:rgb(187, 255, 0);
+    width: 80px;
+    font-size:50px;
+    border-radius: 10px;
+}
+
+.i1 , .i2{
+    font-size: 20px;
+    color: aliceblue;
+    
+}
+
+.about2{
+    background-image: url(images/Screenshot\ 2024-02-29\ 200306.png);
+    background-size: 1200px;
+    border-radius: 20px;
+    
+}
+
+.about{
+    background-image:url(images/Screenshot\ 2024-02-29\ 200823.png);
+    background-size:1200px;
+    border-radius: 20px;
+}
+
+footer{
+    background-color: black;
+    height: 50px;
+}
+
+h2 , h3 {
+    color: aliceblue;
+}
+
